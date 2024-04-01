@@ -1,0 +1,21 @@
+.lapbtn{
+    display: flex;
+    gap: 50px;
+    justify-content: space-around;
+    margin-bottom: 10px;
+}
+.boot1{
+    text-align: center;
+    gap:20px;
+    display: flex;
+    flex-wrap: wrap;
+    /* display: inline-block; */
+    justify-content: space-around;
+    
+}
+.boot{
+    /* border: 5px solid rebeccapurple;
+    text-align: center;
+    justify-content: space-around;    */
+   
+}

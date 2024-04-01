@@ -1,0 +1,25 @@
+.head{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: black;
+    color: white;
+    align-items: center;
+    
+}
+.listitem ul{
+   display: flex;
+}
+.listitem ul li{
+    list-style: none;
+    padding: 0 20px;
+}
+.login{
+  display: flex;
+  justify-content: space-around;
+  gap: 20px;  
+}
+.cartbtn{
+    height: 50px;
+    
+}
